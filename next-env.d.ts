@@ -6,4 +6,9 @@ declare module '*.graphqls' {
   export default typeof DocumentNode
 }
 
+// declare module '*.graphql' {
+//   import { DocumentNode } from 'graphql'
+//   export default typeof DocumentNode
+// }
+
 declare module '*.yml'
