@@ -37,7 +37,7 @@ export default function About() {
 
   return (
     <Layout title="About | Next.js + TypeScript Example">
-      <h1>About</h1>
+      <h1>Welcome to the about page.</h1>
       <h3>Your data :</h3>
       {data?.post.title}
 

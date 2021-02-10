@@ -21,7 +21,9 @@ exports[`Index renders the html we want 1`] = `
   </a>
    
   <br />
-  <h1>
+  <h1
+    className="text-white"
+  >
     Home
   </h1>
   <h2>
